@@ -1,0 +1,4 @@
+Tests: uipath-bot-062 INT
+TC-001: PASS
+TC-002: PASS
+Coverage: 92%
